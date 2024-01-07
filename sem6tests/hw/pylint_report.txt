@@ -1,0 +1,9 @@
+************* Module program_hw
+program_hw.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+program_hw.py:16:15: W0718: Catching too general exception Exception (broad-exception-caught)
+program_hw.py:8:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-state
+ments)
+program_hw.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 8.67/10 (previous run: 9.20/10, -0.53)
